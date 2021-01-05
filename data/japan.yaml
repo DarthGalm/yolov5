@@ -6,7 +6,7 @@ train: ../japandataset/images/train/
 val: ../japandataset/images/val/
 
 # number of classes
-nc: 5
+nc: 4
 
 # class names
-names: ['D00', 'D10', 'D20', 'empty', 'D40']
+names: ['D00', 'D10', 'D20', 'D40']
